@@ -1,8 +1,4 @@
 # Jenkins.
 
-'''
-Hello
-'''
-
 ## Testing
 
